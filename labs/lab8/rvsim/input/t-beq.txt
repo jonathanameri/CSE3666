@@ -1,0 +1,6 @@
+Address     Code        Basic                        Line Source
+
+0x00400000  0x00000f33  add x30,x0,x0                6    	add	x30, x0, x0
+0x00400004  0x00af0663  beq x30,x10,0x0000000c       8    	beq	x30, a0, exit
+0x00400008  0x001f0f33  add x30,x30,x1               9    	add     x30, x30, x1
+0x0040000c  0xfe000ce3  beq x0,x0,0xfffffff8         10   	beq	x0, x0, loop

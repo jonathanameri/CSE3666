@@ -1,0 +1,4 @@
+Address     Code        Basic                        Line Source
+
+0x00400000  0x00b57e33  and x28,x10,x11              7    	and	x28, x10, x11
+0x00400004  0x00b56eb3  or x29,x10,x11               8    	or	x29, x10, x11

@@ -1,0 +1,6 @@
+Address     Code        Basic                        Line Source
+
+0x00400000  0x00451e33  sll x28,x10,x4               7    	sll	x28, x10, x4
+0x00400004  0x00b51eb3  sll x29,x10,x11              8    	sll	x29, x10, x11
+0x00400008  0x00b55f33  srl x30,x10,x11              9    	srl	x30, x10, x11
+0x0040000c  0x40b55fb3  sra x31,x10,x11              10   	sra	x31, x10, x11
